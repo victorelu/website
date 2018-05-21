@@ -1,0 +1,6 @@
+<div style="max-width: 100%; max-height: 400px; margin-bottom: 1.5em;">
+  <canvas id="{{ .Get "id" }}" width="400" height="400"></canvas>
+</div>
+<script type="text/javascript">
+  new Chart(document.getElementById("{{ .Get "id" }}"), {{ getJSON (.Get "data") }});
+</script>

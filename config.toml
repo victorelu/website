@@ -1,0 +1,31 @@
+baseURL = "https://victor.avasiloaei.com"
+languageCode = "en-us"
+title = "Victor's thoughts & ideas"
+subtitle = "Articles by Victor Avasiloaei"
+theme = "kiss"
+disqusShortname = "victoravasiloaei"
+
+copyright = "&copy; <a href=\"https://victor.avasiloaei.com\">Victor Avasiloaei</a> 2018"
+googleAnalytics = ""
+# Number of posts per page
+Paginate = 5
+enableRobotsTXT = true
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+enableSocial = true # Adds OpenGraph and Twitter cards
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+homeTitle = "Victor Avasiloaei"
+
+[params.social]
+twitter = "victorelu"
+github = "victorelu"
+email = "victor.avasiloaei@gmail.com"
+linkedin = "victoravasiloaei"
+
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
