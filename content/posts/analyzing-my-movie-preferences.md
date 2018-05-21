@@ -52,7 +52,7 @@ Last, but not least, the list of directors of the movies I watched doesn't provi
 
 The year a movie was released does tend to weigh quite a bit in my choice of choosing what to watch. I do appreciate older flicks and their influence in the evolution of the film industry, but I feel few of them aged properly. My biggest issue with older films is the sound mixing which usually feels pretty bad and unimmerseful.
 
-Being born in 1990, I lean towards watching movie made within my lifetime, as can be seen in the following chart generated through cinestat.
+Being born in 1990, I lean towards watching films made within my lifetime, as can be seen in the following chart generated through cinestat.
 
 {{< chartjs id="movies-year-release" data="/static/js/data/movies-year-release.js" >}}
 
