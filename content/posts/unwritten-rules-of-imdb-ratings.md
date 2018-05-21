@@ -28,15 +28,15 @@ There's obviously more movie genres than the ones mentioned below, but I have a 
 ### Thriller / Horror
   * **lower than 4**: Come on, let's be serious
   * **between 4 and 5**: 9 out of 10 times, it's really that bad. But if you dig the synopsis, might give it a shot.
-  * **between 5 and 6**: You just can't know for sure. Generally, 5.5 and lower is worse than 5.6 to 6, but it's generally a coin toss.
+  * **between 5 and 6**: You just can't know for sure. Generally, 5.5 and lower is worse than 5.6 to 6, but it's mostly a coin toss.
   * **between 6 and 7**: Pretty good one, go and watch it.
-  * **between 7 and 8**: You're in very good movie territory here. It's more often for thrillers to end up with such a high rating. If there's a horror with such a rating, you need to watch it *now*.
+  * **between 7 and 8**: You're in very good movie territory here. It's more often for thrillers to end up with such a high rating. If there's a horror rated this high, you need to watch it *now*.
   * **over 8**: I don't even know why you're reading this post instead of figuring out a way to watch it.
 
 ### Drama
   * **lower than 6**: The only reason to watch these is to laugh at the script, the actors or need some background noise.
-  * **6 to 7**: Ehh, you never know. Coin toss.
-  * **7 to 8**: Probably a pretty good movie, but since it's a drama, it can either be to your liking or not. They're generally good movies but don't speak to all audiences.
+  * **6 to 7**: Ehh, you never know, it's a gamble.
+  * **7 to 8**: Probably a pretty good movie, but since it's a drama, it can either be to your liking or not. They're usually good movies but don't speak to all audiences.
   * **over 8**: Get some napkins or a handkerchief ready, you'll probably be bawling your eyes out.
 
 There are obviously some exceptions, but there's a reason my wife married me - I sure know how to pick a good movie for us.
