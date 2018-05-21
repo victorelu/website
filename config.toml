@@ -6,7 +6,7 @@ theme = "kiss"
 disqusShortname = "victoravasiloaei"
 
 copyright = "&copy; <a href=\"https://victor.avasiloaei.com\">Victor Avasiloaei</a> 2018"
-googleAnalytics = ""
+googleAnalytics = "UA-5105103-13"
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true

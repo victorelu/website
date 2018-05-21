@@ -56,9 +56,9 @@ Being born in 1990, I lean towards watching movie made within my lifetime, as ca
 
 {{< chartjs id="movies-year-release" data="/static/js/data/movies-year-release.js" >}}
 
-The number of movies watched each year really depends on having rated a movie immediately after watching it, which I unfortunately only started doing in mid-2007. The spike of movies "watched" in 2007 is caused by my decision in March 2007 of starting to religiously keep track of what I watch. This means that in March 2007 I spent a couple of days going through IMDb and rated movies that I knew for sure I had previously seen.
+The number of movies watched each year really depends on having rated a movie immediately after watching it, which I unfortunately only started doing in mid-2007. The spike of movies "watched" in 2007 is caused by my decision in March of that year to start religiously keep track of what I watch. I spent a couple of days of that month going through IMDb and rated movies that I knew for sure I had previously seen.
 
-The inaccuracy of ratings given in that particular month is pretty annoying as it can skew the data considerably. That's because of the abnormally large number of movies qualified as watched in that month but also because of not having had rating movies right after seeing them. This is therefore both a quantity and a quanlity problem that can't be fixed.
+The inaccuracy of ratings given in that particular month is pretty annoying as it can skew the data considerably. That's because of the abnormally large number of movies qualified as watched in that month but also because of not having had rated movies right after seeing them. This is therefore both a quantity and a quality problem that can't be fixed.
 
 It's also worth noting there's a couple of movies that I've seen twice but I have never updated their original rating.
 
