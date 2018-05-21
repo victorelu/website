@@ -1,0 +1,18 @@
+.regular-image-wrapper {
+  text-align: center;
+}
+.regular-image-wrapper .regular {
+  width: 75%;
+}
+.article-image {
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+.article-image.width-3-4 img {
+  width: 75%;
+}
+.imdb-badge img {
+  height: 80px;
+  width: auto;
+  margin: 0 auto;
+}
