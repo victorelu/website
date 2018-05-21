@@ -48,6 +48,10 @@
           "max": 10
         }
       }]
+    },
+    "title": {
+      "display": true,
+      "text": "Number of movies watched by duration and their rating"
     }
   }
 }

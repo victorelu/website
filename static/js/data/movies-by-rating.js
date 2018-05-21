@@ -21,6 +21,10 @@
     "maintainAspectRatio": false,
     "legend": {
       "display": false
+    },
+    "title": {
+      "display": true,
+      "text": "Movies watched per rating given"
     }
   }
 }

@@ -16,3 +16,29 @@
   width: auto;
   margin: 0 auto;
 }
+@media screen and (max-width: 768px) {
+  .article-image.width-3-4 img {
+    width: 100%;
+  }
+  .nav:first-of-type {
+    display: block;
+  }
+  .nav:nth-of-type(2) {
+    display: none;
+  }
+  .nav > .nav-left {
+    width: 100%;
+  }
+  .nav > .nav-left > a {
+    margin: 0 auto;
+  }
+  .container > .nav > .nav-right {
+    display: flex;
+  }
+  .container > .nav > .nav-right .nav-item {
+    margin: 0 auto;
+  }
+  .nav .level-item {
+    margin: 0 10px;
+  }
+}
