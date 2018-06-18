@@ -3,6 +3,7 @@ title: "Analyzing my movie preferences"
 date: 2018-05-21T12:30:54+02:00
 draft: false
 slug: analyzing-my-movie-preferences
+cover: https://victor.avasiloaei.com/img/cinestat-og.png
 scripts:
   - Chart.min.js
 ---

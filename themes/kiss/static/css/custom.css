@@ -16,6 +16,10 @@
   width: auto;
   margin: 0 auto;
 }
+.title.is-5 {
+  font-size: 15px;
+}
+
 @media screen and (max-width: 768px) {
   .article-image.width-3-4 img {
     width: 100%;
